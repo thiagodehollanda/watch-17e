@@ -1,1 +1,29 @@
+{
+  "produto": "iPhone 17e 256 GB",
+  "preco_alvo": 3800.00,
+  "piso_sanidade": 2800.00,
+  "teto_sanidade": 7000.00,
+
+  "termos_obrigatorios": ["17e"],
+  "termos_proibidos": [
+    "capa", "pelicula", "case", "carregador", "cabo", "fone",
+    "suporte", "protetor", "16e", "17 pro", "pro max", "plus",
+    "seminovo", "semi novo", "usado", "vitrine", "recondicionado",
+    "swap", "cpo"
+  ],
+  "armazenamento_esperado": "256",
+
+  "ml_query": "iphone 17e 256gb",
+  "ml_max_resultados": 50,
+
+  "feeds": [
+    "https://tecnoblog.net/feed/",
+    "https://tecnoblog.net/tema/celulares/feed/",
+    "https://ofertas.tecnoblog.net/feed/",
+    "https://macmagazine.com.br/feed/"
+  ],
+
+  "modo": "diario",
+  "silenciar_se_sem_novidade": false
+}
 
