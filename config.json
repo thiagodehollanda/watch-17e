@@ -24,6 +24,6 @@
   ],
 
   "modo": "diario",
-  "silenciar_se_sem_novidade": true
+  "silenciar_se_sem_novidade": false
 }
 
