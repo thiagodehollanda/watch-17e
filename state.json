@@ -1,5 +1,15 @@
 {
-  "menor_historico": null,
-  "ultimo_reportado": null,
-  "data_minimo": null
+  "menor_historico": 3979.67,
+  "ultimo_reportado": 3979.67,
+  "data_minimo": "07/09/2026",
+  "ultima_execucao": "07/09/2026 10:34",
+  "melhor_oferta": {
+    "preco": 3979.67,
+    "loja": "Celulares • Tecnoblog",
+    "fonte": "RSS · Celulares • Tecnoblog",
+    "titulo": "iPhone 17e surge mais barato em oferta por até 12x sem juros no AliExpress",
+    "url": "https://tecnoblog.net/achados/iphone-17e-surge-mais-barato-em-oferta-por-ate-12x-sem-juros-no-aliexpress/",
+    "cupom": "GRANDE7",
+    "pix": false
+  }
 }
