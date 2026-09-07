@@ -210,7 +210,7 @@ def _texto_artigo(url: str) -> str:
 
 def coletar_feeds() -> list[Oferta]:
     ofertas: list[Oferta] = []
-    limite = agora() - timedelta(days=3)
+    limite = agora() - timedelta(days=51)
 
     for url_feed in CONFIG["feeds"]:
         try:
