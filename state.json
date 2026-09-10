@@ -1,15 +1,15 @@
 {
   "menor_historico": 3949.0,
-  "ultimo_reportado": 3949.0,
+  "ultimo_reportado": 3999.0,
   "data_minimo": "09/09/2026",
-  "ultima_execucao": "10/09/2026 04:44",
+  "ultima_execucao": "10/09/2026 10:15",
   "melhor_oferta": {
-    "preco": 3949.0,
-    "loja": "Tecnoblog",
-    "fonte": "RSS · Tecnoblog",
-    "titulo": "iPhone 17e (256 GB) sofre queda de preço com cupom no Magazine Luiza",
-    "url": "https://tecnoblog.net/achados/iphone-17e-256-gb-sofre-queda-de-preco-com-cupom-no-magazine-luiza/",
-    "cupom": "MAGALU350",
+    "preco": 3999.0,
+    "loja": "Celulares • Tecnoblog",
+    "fonte": "RSS · Celulares • Tecnoblog",
+    "titulo": "iPhone 17e (256 GB) de alto desempenho baixa de preço com cupom",
+    "url": "https://tecnoblog.net/achados/iphone-17e-256-gb-de-alto-desempenho-baixa-de-preco-com-cupom/",
+    "cupom": "INFLU300",
     "pix": true
   }
 }
